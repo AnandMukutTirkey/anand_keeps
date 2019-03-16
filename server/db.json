@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "id": "revanth@kolluru.com",
+      "password": "123456"
+    },
+    {
+      "id": "anand@mukut.com",
+      "password": "123456"
+    },
+    {
+      "id": "hello@world.com",
+      "password": "123456"
+    },
+    {
+      "id": "anosh@kumar.com",
+      "password": "123456"
+    },
+    {
+      "id": "temp@email.com",
+      "password": "123456"
+    },
+    {
+      "id": "mukesh@kindo.com",
+      "password": "123456"
+    },
+    {
+      "id": "dfsf",
+      "password": "fsd"
+    },
+    {
+      "id": "ajay@kumar.com",
+      "password": "123456"
+    }
+  ],
+  "notes": [
+    {
+      "id": "12",
+      "noteTitle": "take bath",
+      "noteDescription": "Yeah, I'm pathetic, i've to remind myself to take bath everyday",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "47836",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi users",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "473",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "4926",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "4750",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "Congue eu consequat ac felis donec et odio pellentesque diam. Elit ut aliquam purus sit amet luctus. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. In fermentum posuere urna nec. Feugiat vivamus at augue eget arcu dictum. Vestibulum rhoncus est pellentesque elit ullamcorper. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. A scelerisque purus semper eget duis at. Sit amet nisl suscipit adipiscing bibendum est ultricies integer quis. Ante metus dictum at tempor commodo ullamcorper a. Sit amet risus nullam eget felis eget nunc lobortis. Scelerisque in dictum non consectetur. Cras fermentum odio eu feugiat pretium nibh ipsum. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Faucibus interdum posuere lorem ipsum dolor sit amet. Sit amet facilisis magna etiam tempor orci",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "8740",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "4027",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "Congue eu consequat ac felis donec et odio pellentesque diam. Elit ut aliquam purus sit amet luctus. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. In fermentum posuere urna nec. Feugiat vivamus at augue eget arcu dictum. Vestibulum rhoncus est pellentesque elit ullamcorper. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. A scelerisque purus semper eget duis at. Sit amet nisl suscipit adipiscing bibendum est ultricies integer quis. Ante metus dictum at tempor commodo ullamcorper a. Sit amet risus nullam eget felis eget nunc lobortis. Scelerisque in dictum non consectetur. Cras fermentum odio eu feugiat pretium nibh ipsum. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Faucibus interdum posuere lorem ipsum dolor sit amet. Sit amet facilisis magna etiam tempor orci",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "0274",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "02253",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "032445",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "1646",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user id",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "3874",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user password",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "2946",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user name",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "67863",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user user",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "3856",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi userrrrr",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "1",
+      "noteTitle": "take bath",
+      "noteDescription": "Yeah, I'm pathetic, i've to remind myself to take bath everyday",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "2",
+      "noteTitle": "YAAAAY!!!",
+      "noteDescription": "I've finally made this app multi user",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "33335",
+      "noteTitle": "YAAAAY!!!333",
+      "noteDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": "revanth@kolluru.com"
+    },
+    {
+      "id": "33932",
+      "noteTitle": "YAAAAY!!!333789",
+      "noteDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. m",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "10333",
+      "noteTitle": "hello",
+      "noteDescription": "world",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "88241",
+      "noteTitle": "hello",
+      "noteDescription": "hello",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "5873",
+      "noteTitle": "sample tiltle",
+      "noteDescription": "sample description",
+      "userId": "mukesh@kindo.com"
+    },
+    {
+      "id": "113",
+      "noteTitle": "new",
+      "noteDescription": "new",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "44274",
+      "noteTitle": "sample note",
+      "noteDescription": "this is a sample note",
+      "userId": "dfsf"
+    },
+    {
+      "id": "3813",
+      "noteTitle": "old",
+      "noteDescription": "old",
+      "userId": "anand@mukut.com"
+    },
+    {
+      "id": "21199",
+      "noteTitle": "sample note",
+      "noteDescription": "this is a sample note",
+      "userId": "ajay@kumar.com"
+    },
+    {
+      "id": "41519",
+      "noteTitle": "new ",
+      "noteDescription": "new",
+      "userId": "ajay@kumar.com"
+    },
+    {
+      "id": "19507",
+      "noteTitle": "fkjsdkfjsd",
+      "noteDescription": "dflsdjsd",
+      "userId": "ajay@kumar.com"
+    }
+  ]
+}
